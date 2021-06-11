@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="02_array" />
+        <module name="04_interface_abstract" />
+        <module name="17_stream" />
+        <module name="09_annotation" />
+        <module name="11_generic" />
+        <module name="10_collection" />
+        <module name="07_commonly_use_api" />
+        <module name="05_exception" />
+        <module name="18_new_jdk" />
+        <module name="03_oop" />
+        <module name="19_design_pattern" />
+        <module name="06_multi_thread" />
+        <module name="15_reflect" />
+        <module name="08_enum" />
+        <module name="13_serializable" />
+        <module name="flow_control" />
+        <module name="16_lamda" />
+        <module name="12_io_stream" />
+        <module name="14_nio" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_flow_control" target="1.8" />
+      <module name="O" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
