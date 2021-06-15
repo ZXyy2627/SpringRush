@@ -1,4 +1,4 @@
-package com.lucky.switch_case;
+package com.lucky.choose.switch_case;
 
 /**
  * switch(表达式)

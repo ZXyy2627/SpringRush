@@ -1,4 +1,4 @@
-package com.lucky.if_else_exer;
+package com.lucky.choose.if_else_exer;
 
 /**
  * 输入两个double类型的数字，

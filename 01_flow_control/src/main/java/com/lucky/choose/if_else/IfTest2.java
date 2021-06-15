@@ -1,4 +1,4 @@
-package com.lucky.if_else;
+package com.lucky.choose.if_else;
 
 import java.util.Scanner;
 

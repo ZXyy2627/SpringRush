@@ -1,4 +1,4 @@
-package com.lucky.if_else_exer;
+package com.lucky.choose.if_else_exer;
 
 /**
  * 编写程序，声明两个变量并赋值，判断两数之和如果大于50就输出HelloWorld
