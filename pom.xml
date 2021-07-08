@@ -29,6 +29,7 @@
         <module>17_stream</module>
         <module>18_new_jdk</module>
         <module>19_design_pattern</module>
+        <module>checkSign</module>
     </modules>
 
     <properties>
